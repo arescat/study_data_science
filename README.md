@@ -14,6 +14,9 @@
 * \Anaconda3\Scripts 
 * \Anaconda3\Library\bin 
 
+2-1. anaconda update
+* conda update --all
+
 3. 가상환경(virtual enviroment) 추가
 * DOS(win) Prompt
   * conda create --name pstudy python=3.7
