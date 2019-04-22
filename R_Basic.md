@@ -11,7 +11,7 @@
 
 ### 실행
 * R Studio 실행
-** Win : 시작메뉴 > R Studio
-** Mac : Application > R Studio
+  * Win : 시작메뉴 > R Studio
+  * Mac : Application > R Studio
 
 ### 기본 명령
