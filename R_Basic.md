@@ -67,7 +67,7 @@
 * 상자그림
   ```
   boxplot(train$Age)
-  ```)
+  ```
 * 히스토그램
   ```
   hist(train$Age)
