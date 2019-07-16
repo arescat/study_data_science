@@ -39,4 +39,6 @@ mkdir C:\Datascience\pstudy
 ```
 cd C:\Datascience\pstudy
 jupyter notebook
+or
+jupyter lab
 ```
