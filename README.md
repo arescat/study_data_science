@@ -23,7 +23,7 @@ deactivate
 ```
 conda create --name pstudy python=3.7
 source activate pstudy
-source deactivate pstudy
+conda deactivate
 ```
 4. 파이썬 설치 확인
 ```
