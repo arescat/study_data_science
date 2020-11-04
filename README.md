@@ -17,7 +17,12 @@
 ```
 conda create --name pstudy python=3.7
 activate pstudy
+or
+conda activate pstudy
+
 deactivate
+or
+conda deactivate
 ```
 * Shell(Mac) Prompt
 ```
