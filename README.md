@@ -1,4 +1,4 @@
-# pulip_study_data_science
+# study_data_science
 
 ### 환경설정
 
